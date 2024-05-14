@@ -23,8 +23,6 @@ dependencies {
 test {
     useJUnitPlatform()
     systemProperty 'selenide.headless', System.getProperty('selenide.headless')
-<<<<<<< HEAD
     }
-=======
 }
->>>>>>> 81e9effb01abb76b3d597983a9c04172cdaed63e
+
